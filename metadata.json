@@ -1,0 +1,7 @@
+{
+  "name": "SafeSpace - GBV Digital Literacy Bot",
+  "description": "A compassionate voice-enabled AI assistant helping women with digital literacy and safety in the context of gender-based violence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
